@@ -12,8 +12,8 @@
 
 @media (max-width: 767px) {                  
    #logo-display{
-       height: 100px;
-      /* display: none; */
+       /* height: 100px; */
+      display: none;
    }
 }
 #logoDisplay{
