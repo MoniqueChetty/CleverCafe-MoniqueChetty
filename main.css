@@ -54,7 +54,8 @@
 }
 .tasks:hover{
 	transform: scale(1.5);
-    z-index: 10;			
+    z-index: 10;
+    transition: all 1s ease			
 }
 .announcements span {
     padding-top: 3.2rem;
