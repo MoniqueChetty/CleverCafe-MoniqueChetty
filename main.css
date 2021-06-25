@@ -10,25 +10,27 @@
 	background-color: white;
 }
 
-@media (max-width: 767px) {                  
+/* @media (max-width: 767px) {                  
    #logo-display{
-       /* height: 100px; */
+     height: 100px;
       display: none;
    }
-}
+}  */
 #logoDisplay{
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    margin: 20px;
     
+    height: 150px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;   
 }
-#logoDisplay img{
-    margin: 0 20px;
+.logoImg{
+    display: flex;
+    justify-content: space-evenly;
 }
-#logoText{
+
+/* #logoText{
     z-index: -10;
-}
+} */
 
 .announcements {
     display: flex;
