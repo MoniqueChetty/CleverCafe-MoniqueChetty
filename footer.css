@@ -47,6 +47,7 @@ footer h4 {
 }
 
 .monique{
+    max-width: 80%;
     background-color: #531253;
     display: flex;
     justify-content: center;
