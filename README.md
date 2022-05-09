@@ -31,13 +31,15 @@
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository
+Clone the repository
 
 ```Bash
 git clone https://github.com/MoniqueChetty/CleverCafe-MoniqueChetty.git
 ```
 
 <!-- ## ❗ Available Commands -->
+## ❗ About App
+   Create a landing page using HTML, CSS. 
 
 ## 👷 Built with
    HTML CSS JavaScript
